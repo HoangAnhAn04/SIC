@@ -1,0 +1,17 @@
+/.venv
+/Vietnamese-20240704T085931Z-001.zip
+*.pdf
+*.vscode
+*.ppt
+*.pptx
+*.exe
+*.doc
+*.jpg
+*.png
+*.jpeg
+*.zip
+*.tgz
+*.csv
+*.pickle
+*.xlsx
+*.xls
